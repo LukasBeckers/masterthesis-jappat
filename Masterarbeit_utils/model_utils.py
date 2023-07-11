@@ -9,8 +9,9 @@ from tokenizers.processors import TemplateProcessing
 def get_tokenizer(dump_dir):
     
     # Loading the dict containing all unique f-terms in the datase
-    with open(f'{dump_dir}/f_terms_in_ds_dir.pk', 'rb') as f:
-        f_term_dict = pk.load(f)
+    with open(f'{dump_dir}/label_embedding_no_single.pk', 'rb') as f:
+        dataset_emb = pk.load(f)
+        f_term_dict = dataset_emb.dict
         
     # Loading a dict, which contains all uniqe f-terms with crawled definitions
     with open(f'{dump_dir}/f_term_dict.pk', 'rb') as f:
