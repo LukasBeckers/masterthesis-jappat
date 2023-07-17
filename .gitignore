@@ -1,0 +1,7 @@
+.idea
+.git
+data
+!data/JPO_patents_abstracts_fterms.csv
+.ipynb_checkpoints
+Masterarbeit_utils/__pycache__
+Masterarbeit_utils/.ipynb_checkpoints
