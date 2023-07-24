@@ -34,7 +34,8 @@ def get_tokenizer(dump_dir):
         except KeyError:
             exceptions[key] = 1
             exceptions_l += 1
-    
+    print('adding start f-terms token')
+    tokenizer.add_tokens(['<START F-TERMS>'])
     unique_tokens = [key +',' for key, value in exceptions.items() if value ==0] 
     tokenizer.add_tokens(unique_tokens)
     # Adding the start_sequence, end_sequence and padding tokens to the tokenizer
@@ -175,7 +176,10 @@ def add_classification_head(_model: OPTForCausalLM, classification_head: torch.n
     _model.model.decoder.vocab_size = vocab_size
     _model.num_labels = vocab_size
     _model.config.num_labels = vocab_size
-
+    # Maybe prevents when the model is saved, that the custom classification head is removed.
+    _model.config.tie_word_embeddings = False
+    
+    print(f'New classification head has {vocab_size} out_features')
     # adding the classification head to the model
     _model.set_output_embeddings(classification_head)
     return _model
