@@ -34,16 +34,18 @@ def get_tokenizer(dump_dir):
         except KeyError:
             exceptions[key] = 1
             exceptions_l += 1
-    print('adding start f-terms token')
-    tokenizer.add_tokens(['<START F-TERMS>'])
+    tokenizer.add_tokens(['<START F-TERMS>', '<ENDĠF-TERMS>'])
+    #tokenizer.add_tokens(['<START F-TERMS>'])
     unique_tokens = [key +',' for key, value in exceptions.items() if value ==0] 
     tokenizer.add_tokens(unique_tokens)
     # Adding the start_sequence, end_sequence and padding tokens to the tokenizer
     tokenizer.pad_token = '<pad>'
     tokenizer.bos_token = '<s>'
-    tokenizer.eos_token = '</s>'
+    tokenizer.eos_token = '<ENDĠF-TERMS>'
+    #tokenizer.eos_token = '</s>'
     tokenizer.bos_token_id = 0
-    tokenizer.eos_token_id = 2
+    tokenizer.eos_token_id = 50001
+    #tokenizer.eos_token_id = 2
     tokenizer.pad_token_id = 1
     tokenizer._tokenizer.post_processor = TemplateProcessing(
     	single=tokenizer.bos_token + " $A " + tokenizer.eos_token,
