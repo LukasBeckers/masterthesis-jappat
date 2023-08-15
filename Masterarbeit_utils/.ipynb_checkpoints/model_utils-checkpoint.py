@@ -72,7 +72,10 @@ def load_pretrained_model(model_name: str, dtype: torch.dtype, tensor_parallel: 
         "base": ("facebook/galactica-1.3b", torch.float32),
         "standard": ("facebook/galactica-6.7b", torch.float32),
         "large": ("facebook/galactica-30b", torch.float32),
-        "huge": ("facebook/galactica-120b", torch.float16)}
+        "huge": ("facebook/galactica-120b", torch.float16),
+        "opt mini": ("facebook/opt-125m", torch.float32),
+        "opt standard": ("facebook/opt-6.7b", torch.float16), 
+        "opt large": ("facebook/opt-30b", torch.float16)}
 
     # Analyzing the system (code by huggingface)
     max_memory = {}
@@ -104,7 +107,10 @@ def load_pretrained_Tokenizer(model_name):
         "base": ("facebook/galactica-1.3b", torch.float32),
         "standard": ("facebook/galactica-6.7b", torch.float32),
         "large": ("facebook/galactica-30b", torch.float32),
-        "huge": ("facebook/galactica-120b", torch.float16)}
+        "huge": ("facebook/galactica-120b", torch.float16),
+        "opt mini": ("facebook/opt-125m", torch.float32),
+        "opt standard": ("facebook/opt-6.7b", torch.float16), 
+        "opt large": ("facebook/opt-30b", torch.float16)}
 
     return AutoTokenizer.from_pretrained(HF_MAPPING[model_name][0])
 
