@@ -87,10 +87,11 @@ def load_pretrained_model(model_name: str, dtype: torch.dtype, tensor_parallel: 
             max_memory[i] = torch.cuda.mem_get_info(i)[0]
         device_map = "auto"
     max_memory["cpu"] = psutil.virtual_memory().available
-
+    # Debugging 
+    print('Max Memory', max_memory)
     # Loading the model form web / from cache
     model = OPTForCausalLM.from_pretrained(HF_MAPPING[model_name][0], torch_dtype=dtype, low_cpu_mem_usage=True,
-                                           device_map=device_map, max_memory=max_memory)
+                                           device_map=device_map, max_memory=max_memory, offload_folder='off_load')
 
     return model
 
