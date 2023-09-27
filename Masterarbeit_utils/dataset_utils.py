@@ -4,6 +4,8 @@ from dask import dataframe as dd
 import re
 from torch.utils.data import Dataset
 import os
+import pickle as pk
+import numpy as np
 
 
 def load_parquet_to_dask(file: str) -> dd:
@@ -13,6 +15,16 @@ def load_parquet_to_dask(file: str) -> dd:
     """
     data = dask.dataframe.read_parquet(file, delimiter='\t')
     return data
+
+
+def load_csv_to_dask(file: str) -> dd:
+    """
+    :file: path to parquet file
+    :return: dask dataframe
+    """
+    data = dask.dataframe.read_csv(file, delimiter=',')
+    return data
+    
 
 def clean_f_terms(f_terms, Stoken='<START F-TERMS>'):
     """
@@ -36,6 +48,25 @@ def clean_df(raw_data_path):
     Patents which contain such a f-term are removed from the dataset
     """
     raw_data = load_parquet_to_dask(raw_data_path)
+    # Cleaning the F-terms and adding an start f-term-token
+    raw_data['jp_class_symbol'] = raw_data['jp_class_symbol'].apply(clean_f_terms, meta=('jp_class_symbol', 'str'))
+    # Combining the abstract and the f-terms
+    raw_data['Sample'] = raw_data['appln_abstract'] + raw_data['jp_class_symbol']
+    # dropping unnessesary columns
+    clean_data = raw_data[['Sample']]
+    return clean_data
+
+
+
+def clean_df_agg(agg_raw_data):
+    """
+    :raw_data_path: Path to the parquet-file which stores the unprocessed dataset.
+
+    this function loads the raw dataset stored in a parquet file and cleans it from short f-term patents
+    Some patents have f-terms which are incompleate (theme, viewpoint or number are missing)
+    Patents which contain such a f-term are removed from the dataset
+    """
+    raw_data = agg_raw_data
     # Cleaning the F-terms and adding an start f-term-token
     raw_data['jp_class_symbol'] = raw_data['jp_class_symbol'].apply(clean_f_terms, meta=('jp_class_symbol', 'str'))
     # Combining the abstract and the f-terms
