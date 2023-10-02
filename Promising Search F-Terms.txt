@@ -1,0 +1,76 @@
+Interessante Fterms für die Suche: 
+
+Theme: 4J040
+
+! 23 4J040/KA09 form or function of adhesive or the like . functions or purposes of additives
+
+? 18 4J040/PA41 adhering process . treatment after adhesion
+
+! 15 4J040/MA01 material of article to which adhesive is applied . inorganic substances
+
+? 9 4J040/JB09 adhesive mechanism and specific function of adhesive . pressure sensitive or adhesive types
+
+? 7 4J040/MB01 form or structure of material to which adhesive is applied . overall forms or structures
+
+? 6 4J040/PA21 adhering process . use of adhesive characterised by specific shapes or functions
+
+! 6 4J040/JB10 adhesive mechanism and specific function of adhesive . conductive adhesives
+
+! 5 4J040/LA09 physical or chemical property, or purpose, or effect . electric and magnetic characteristics
+
+! 2 4J040/LA06 physical or chemical property, or purpose, or effect . mechanical characteristics
+
+! 2 4J040/MB08 form or structure of material to which adhesive is applied . structures or shapes of parts to which adhesives are applied
+
+! 4J040/MA07 material of article to which adhesive is applied . organic substances
+
+? 4J040/JB02 adhesive mechanism and specific function of adhesive . thermosetting types
+
+
+Theme: 4F100 
+
+! 22 4F100/BA10 layer formation of layered products . external layers
+
+! 19 4F100/JG01 electrical or magnetic properties or functions . conductivity being properties or functions
+
+? 18 4F100/JL11 other properties or functions . adhesiveness
+
+! 13 4F100/AB01 metallic materials . metals
+
+! 12 4F100/DB01 shapes or structures of specific parts . of end parts
+
+! 4F100/JK01 mechanical properties or functions . strength or rigidity
+
+? 8 4F100/BA03 layer formation of layered products . with three-layer structure
+
+? 6 4F100/BA02 layer formation of layered products . with two-layer structure
+
+? 6 4F100/GB41 uses . electrical or electronic
+
+? 6 4F100/BA07 layer formation of layered products . asymmetrical structure layered product abc
+
+? 5 4F100/BA04 layer formation of layered products . with four-layer structure
+
+? 4 4F100/EH11 layer formation means . layering accompanied with new layer formation
+
+! 3 4F100/EJ61 processing or means . electrical treatment or magnetic treatment
+
+? 3 4F100/BA05 layer formation of layered products . with five- or more-layer structure
+
+! 2 4F100/JG05 electrical or magnetic properties or functions . dielectric being property or function
+
+! 2 4F100/EJ16 processing or means . mechanical processing
+
+! 2 4F100/CA21 additives or fillers . conductive materials
+
+? 2 4F100/BA06 layer formation of layered products . symmetrical structure layered product aba
+
+! 2 4F100/AB33 metallic materials . foils
+
+? 1 4F100/DC30 shapes or structures of discontinuous layers . other discontinuous layers
+
+
+
+
+
+
