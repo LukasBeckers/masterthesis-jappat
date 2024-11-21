@@ -1,0 +1,602 @@
+Found in search with 4F100 chains of length 4
+--------------------------------------------------------------------------
+In Orbit: FALSE; 3L345: cold air circulation and detail configuration of refrigerator 
+In Orbit: FALSE; 5J012: waveguide switches, polarizers, phase shifters 
+In Orbit: FALSE; 3D333: power steering mechanism 
+In Orbit: TRUE; 4F202: moulds for moulding plastics or the like 
+In Orbit: TRUE; 2F076: testing or calibration of command recording devices 
+In Orbit: FALSE; 2H004: photosetting (in printing) 
+In Orbit: FALSE; 2C333: display device for ballistic machines 
+In Orbit: FALSE; 5B105: micro-program control 
+In Orbit: FALSE; 5H601: iron core of rotating electrical machine 
+In Orbit: TRUE; 4F209: shaping by bending or straightening; shaping of tube ends; surface shaping 
+In Orbit: FALSE; 4C206: acyclic and carbocyclic compounds in medicinal compositions 
+In Orbit: TRUE; 4H001: luminescent compositions 
+In Orbit: TRUE; 2H093: liquid crystal 6 (drive) 
+In Orbit: FALSE; 2C058: handling of sheets 
+In Orbit: FALSE; 5J081: lc distribution constant, cr oscillator 
+In Orbit: FALSE; 3K070: chimneys and flues 
+In Orbit: TRUE; 4F208: blow-moulding or thermoforming of plastics or the like 
+In Orbit: FALSE; 5G051: contacts (2) 
+In Orbit: FALSE; 4C057: saccharide compounds 
+In Orbit: TRUE; 5E316: manufacture of multilayer printed wiring boards 
+In Orbit: TRUE; 5H026: fuel cells (bodies) 
+In Orbit: FALSE; 5K014: error detection and prevention 
+In Orbit: TRUE; 5C080: control of indicators other than cathode ray tubes 
+In Orbit: FALSE; 5D091: recording or reproducing by magnetic means (1) 
+In Orbit: TRUE; 5E070: coils or transformers for communication 
+In Orbit: FALSE; 5K028: multiplexed communication method for time division 
+In Orbit: TRUE; 4L055: paper (4) 
+In Orbit: TRUE; 2G061: investigating strength of materials by application of mechanical stress 
+In Orbit: TRUE; 4G077: crystals, and after-treatments of crystals 
+In Orbit: TRUE; 2C032: instructional devices 
+In Orbit: FALSE; 5H410: control of electrical variables (general control of voltage and current) 
+In Orbit: FALSE; 5J091: amplifier 1 
+In Orbit: FALSE; 3B150: sewing machines and sewing 
+In Orbit: FALSE; 5G219: rotary, piano, lever switch 
+In Orbit: TRUE; 5J013: lossy transmission equipment 
+In Orbit: FALSE; 5H730: dc-dc converter 
+In Orbit: FALSE; 2B095: threshing machines (3) (separating or removing dust) 
+In Orbit: TRUE; 5J100: amplifier control details, gain control 
+In Orbit: FALSE; 5K201: telecommunications services 
+In Orbit: FALSE; 5J055: electronic switch 1 
+In Orbit: TRUE; 2H092: liquid crystal 5 (electrodes and active matrixes) 
+In Orbit: TRUE; 5H043: connection of batteries or terminals 
+In Orbit: TRUE; 5F058: formation of insulating films 
+In Orbit: TRUE; 4C180: air disinfection, sterilization or deodorization 
+In Orbit: FALSE; 3B155: laundering in general 
+In Orbit: TRUE; 4G146: carbon and carbon compounds 
+In Orbit: FALSE; 3H056: fluid-driven valves 
+In Orbit: FALSE; 3B167: washer and dryer control 
+In Orbit: TRUE; 4H104: lubricants 
+In Orbit: FALSE; 3J028: transmission structure 
+In Orbit: TRUE; 5G301: conductive materials 
+In Orbit: FALSE; 5H161: train traffic observation, control, and security 
+In Orbit: TRUE; 4F033: nozzles 
+In Orbit: FALSE; 3G062: exhaust-gas circulating devices 
+In Orbit: FALSE; 5K030: wide area data exchange 
+In Orbit: FALSE; 2H201: structure that provides tensile strength and external protection to the fiber 
+In Orbit: TRUE; 4F204: casting or compression moulding of plastics or the like 
+In Orbit: FALSE; 4B015: alcoholic beverages 
+In Orbit: FALSE; 5K073: structure of the switchboard 
+In Orbit: TRUE; 4J100: addition polymer or copolymer, post-treatments, or chemical modifications 
+In Orbit: TRUE; 5E223: mating device and connection to printed circuit 
+In Orbit: TRUE; 3E062: details of rigid or semi-rigid containers 
+In Orbit: TRUE; 4D116: liquid filtration 
+In Orbit: TRUE; 5F047: die bonding 
+In Orbit: TRUE; 5F241: led elements (other than package) 
+In Orbit: TRUE; 3E067: packages 
+In Orbit: TRUE; 4G062: glass compositions (third edition) 
+In Orbit: TRUE; 2G045: investigating or analysing biological materials 
+In Orbit: TRUE; 4B029: apparatus associated with microorganisms and enzymes 
+In Orbit: FALSE; 5K034: communication control 
+In Orbit: TRUE; 3D041: conjoint control of drive units 
+In Orbit: FALSE; 2B150: fodder in general 
+In Orbit: FALSE; 4G066: solid-sorbent or filter-aiding compositions 
+In Orbit: FALSE; 5C182: controls and circuits for display devices 
+In Orbit: FALSE; 2F078: details of measuring and other instruments 
+In Orbit: TRUE; 2B062: transplanter (3) (an element of rice transplanter) 
+In Orbit: FALSE; 4C062: pyrane compounds 
+In Orbit: TRUE; 4J246: silicon polymers 
+In Orbit: TRUE; 4J043: macromolecular compounds obtained by forming nitrogen-containing linkages in general 
+In Orbit: FALSE; 4G112: cements, concrete, artificial stone; curing thereof 
+In Orbit: FALSE; 4D076: vaporization, distillation, condensation, sublimation, and cold traps 
+In Orbit: TRUE; 5H126: fuel cell (main unit) 
+In Orbit: TRUE; 4D075: application of or painting with fluid materials 
+In Orbit: FALSE; 5F082: bipolar integrated circuits 
+In Orbit: TRUE; 4F301: separation,recovery and treatment of waste material plastics 
+In Orbit: FALSE; 2H040: instruments for viewing the inside of hollow bodies 
+In Orbit: FALSE; 5H572: control of multiple electric motors 
+In Orbit: TRUE; 4C098: orthopedics, nursing, and contraception 
+In Orbit: TRUE; 2F056: measuring temperature or quantity of heat 
+In Orbit: TRUE; 5C380: control of el displays 
+In Orbit: TRUE; 4F401: separation, recovery or treatment of waste materials containing plastics 
+In Orbit: FALSE; 2B241: debarking, splitting, and disintegration of timber 
+In Orbit: TRUE; 3C007: manipulators/robots 
+In Orbit: TRUE; 4F215: tire molding 
+In Orbit: TRUE; 2H125: materials for photolithography 
+In Orbit: TRUE; 3B201: cleaning by liquid or steam 
+In Orbit: FALSE; 2E181: portable outdoor equipment 
+In Orbit: TRUE; 4F211: lining or joining of plastics or the like 
+In Orbit: FALSE; 5D208: sound not elsewhere classified (reverberation, karaoke, etc.) 
+In Orbit: TRUE; 4J040: adhesives or adhesive processes 
+In Orbit: TRUE; 4F206: injection moulding of plastics or the like 
+In Orbit: TRUE; 2K101: electrochromic elements, electrophoresis, or variable reflection or absorption elements 
+In Orbit: FALSE; 4C092: x-ray techniques 
+In Orbit: TRUE; 5F103: physical deposition of substances that are components of semiconductor devices 
+In Orbit: TRUE; 4K024: electroplating methods and accessories 
+In Orbit: TRUE; 5L055: finance and insurance related services, payment and settlement 
+In Orbit: TRUE; 4C038: measurement of the respiration, hearing ability, form, and blood characteristics of living organisms 
+In Orbit: TRUE; 2F013: level indicators using a float 
+In Orbit: TRUE; 5J047: antenna support 
+In Orbit: TRUE; 4G069: catalysts 
+In Orbit: FALSE; 2H005: developers for electrophotography 
+In Orbit: TRUE; 5C227: cold cathode and its manufacture 
+In Orbit: FALSE; 5J034: pulse generator using semiconductor devices 
+In Orbit: TRUE; 5C006: liquid crystal display device control 
+In Orbit: TRUE; 2H391: lcd 4-2 (in combination with lighting system) 
+In Orbit: TRUE; 5C164: two-way televisions, distribution of moving picture or the like 
+In Orbit: TRUE; 5F849: photoreceptors 
+In Orbit: TRUE; 5J083: measurement of position, velocity, etc. using sound waves and ultrasonic waves 
+In Orbit: TRUE; 5D029: optical record carriers and manufacture thereof 
+In Orbit: TRUE; 4D006: separation using semi-permeable membranes 
+In Orbit: TRUE; 5J070: radar system and its details 
+In Orbit: FALSE; 5J039: pulse operation 
+In Orbit: TRUE; 2G051: investigating materials by the use of optical means adapted for particular applications 
+In Orbit: TRUE; 3D203: body structure for vehicles 
+In Orbit: FALSE; 5H560: control of commutatorless motors 
+In Orbit: TRUE; 5B055: finance and insurance related services, payment and settlement 
+In Orbit: TRUE; 5J046: antenna details 
+In Orbit: TRUE; 4K018: powder metallurgy 
+In Orbit: FALSE; 5J104: encryption/decryption equipment and secret communication 
+In Orbit: FALSE; 4B042: meat, egg or seafood products 
+In Orbit: TRUE; 4G076: compounds of alkaline-earth elements, aluminum or rare-earth metals 
+In Orbit: TRUE; 5J500: amplifiers in general 
+In Orbit: TRUE; 4J034: polyurethanes or polyureas 
+In Orbit: TRUE; 3L260: air conditioning control equipment 
+In Orbit: FALSE; 2B022: cultivation of plants 
+In Orbit: FALSE; 3C158: finishing grinding, blade grinding, grinding by specific grinding mechanism 
+In Orbit: FALSE; 4D059: treatment of sludge 
+In Orbit: FALSE; 3H178: wind motors 
+In Orbit: FALSE; 5H505: control of ac motors in general 
+In Orbit: FALSE; 5L099: medical and welfare affairs 
+In Orbit: TRUE; 4J032: polyoxymethylene polymers and polymers with carbon-to-carbon bonds 
+In Orbit: TRUE; 4J030: polymers with sulfur, phosphorus or metals in the main chain 
+In Orbit: TRUE; 5H770: inverter 
+In Orbit: TRUE; 5F157: cleaning or drying semiconductors 
+In Orbit: FALSE; 5E555: digital computer user interface 
+In Orbit: TRUE; 2F051: force measurement appropriate to specific purposes 
+In Orbit: FALSE; 5B031: data input/output using a/d and d/a converters 
+In Orbit: TRUE; 4G030: compositions of oxide ceramics (1) 
+In Orbit: TRUE; 4F207: extrusion moulding of plastics or the like 
+In Orbit: FALSE; 2B029: greenhouses 
+In Orbit: FALSE; 5M024: ｄｒａｍ 
+In Orbit: TRUE; 5G056: switches operated by changes in physical conditions (e.g., pressure switches) 
+In Orbit: FALSE; 4B064: preparation of compounds by using micro-organisms 
+In Orbit: FALSE; 4G054: press-shaping or shaping using conveyers 
+In Orbit: TRUE; 4F210: shaping by stretching and by release of stress in plastics and the like 
+In Orbit: FALSE; 5H215: control by computers 
+In Orbit: FALSE; 4D048: exhaust gas treatment by means of catalyst 
+In Orbit: FALSE; 5J022: analog←→digital conversion 
+In Orbit: TRUE; 5G307: non-insulated conductors 
+In Orbit: TRUE; 2H290: liquid crystal 3-2 (mating part material) 
+In Orbit: FALSE; 4G019: porous artificial stone or porous ceramic products 
+In Orbit: TRUE; 3E096: packaging frangible articles 
+In Orbit: FALSE; 2H019: photography method and equipment 
+In Orbit: FALSE; 5H420: control of electrical variables (ac, dc, power, etc.) 
+In Orbit: FALSE; 3K151: induction cooker 
+In Orbit: TRUE; 4J002: compositions of macromolecular compounds 
+In Orbit: FALSE; 5G311: insulated conductors (2) 
+In Orbit: FALSE; 5G066: supply and distribution of alternating current 
+In Orbit: FALSE; 2C028: electrically operated instructional devices 
+In Orbit: TRUE; 5C061: testing, inspecting, measuring of stereoscopic televisions and televisions 
+In Orbit: FALSE; 2E182: curtains and furnishings for windows or doors 
+In Orbit: FALSE; 2G024: testing of devices, machine parts, or other structures thereof 
+In Orbit: FALSE; 4G005: manufacturing of micro-capsules 
+In Orbit: FALSE; 3G384: combined controls of internal combustion engines 
+In Orbit: FALSE; 3C046: cutting tools, boring holders, and turrets 
+In Orbit: TRUE; 3G190: treatment of solid components of exhaust air 
+In Orbit: FALSE; 2B034: soil working implements 4 (others) 
+In Orbit: FALSE; 3B084: chair legs, seat parts, and backrests 
+In Orbit: TRUE; 4D064: special filtering devices 
+In Orbit: TRUE; 4C601: ultra sonic daignosis equipment 
+In Orbit: FALSE; 2D132: tubs and showers and their accessories 
+In Orbit: TRUE; 4F212: special foam moulding of plastics or the like; tyre moulding 
+In Orbit: FALSE; 4C022: heterocyclic compounds that contain two or more ring oxygen atoms 
+In Orbit: FALSE; 4G012: cements, concrete, artificial stone; curing thereof 
+In Orbit: TRUE; 4H006: organic low-molecular-weight compounds and preparation thereof 
+In Orbit: FALSE; 3C042: multi-process working machines and systems 
+In Orbit: TRUE; 5J014: waveguide 
+In Orbit: TRUE; 3H111: rigid pipes and flexible pipes 
+In Orbit: TRUE; 5G333: insulating bodies 
+In Orbit: FALSE; 4L043: auxiliary weaving apparatuses, weavers' tools, and shuttles 
+In Orbit: TRUE; 5H127: fuel cell (system) 
+In Orbit: FALSE; 3L122: heat pump and storage water heaters 
+In Orbit: TRUE; 4C063: plural heterocyclic compounds 
+In Orbit: TRUE; 2G047: investigating or analyzing materials by the use of ultrasonic waves 
+In Orbit: FALSE; 5B021: digital output to typewriters or the like 
+In Orbit: FALSE; 5G352: installation of wire cables 
+In Orbit: TRUE; 3F101: feeding of articles by means other than belts or rollers 
+In Orbit: TRUE; 4J031: other resins obtained by reactions not involving carbon-to-carbon unsaturated bonds 
+In Orbit: FALSE; 4C060: surgical instruments 
+In Orbit: FALSE; 5B146: ｃａｄ 
+In Orbit: TRUE; 5D042: adjustment of the magnetic head position track following on tapes 
+In Orbit: TRUE; 3K003: regulation and control of combustion (2) 
+In Orbit: FALSE; 5K069: switching circuit for switching, multiple switching control system 
+In Orbit: FALSE; 5H649: electric clutch, electric brake 
+In Orbit: TRUE; 4G169: catalysts 
+In Orbit: TRUE; 2G017: measuring magnetic variables 
+In Orbit: FALSE; 2B041: agricultural machines in general, hitches, rear wheels, and power-take-offs (pto) 
+In Orbit: FALSE; 3K078: incineration of waste 
+In Orbit: FALSE; 5J300: pulse generator general 
+In Orbit: TRUE; 3D020: fittings on the vehicle exterior for carrying loads, and devices for holding or mounting articles 
+In Orbit: FALSE; 2K203: projection device 
+In Orbit: FALSE; 4C056: heterocyclic carbon compounds containing a hetero ring having nitrogen and oxygen as the only ring hetero atoms 
+In Orbit: TRUE; 4C050: nitrogen-containing condensed heterocyclic rings iii 
+In Orbit: FALSE; 5J066: differential amplifier 
+In Orbit: FALSE; 4C188: nuclear medicine 
+In Orbit: TRUE; 3D246: brake systems; regulating braking force 
+In Orbit: FALSE; 4L045: spinning methods and devices for manufacturing artificial fibers 
+In Orbit: TRUE; 3C064: portable power tools in general 
+In Orbit: FALSE; 5K046: wired transmission system and radio equalization, echo reduction 
+In Orbit: FALSE; 4E093: molds, cores, and manufacturing methods thereof 
+In Orbit: FALSE; 2G025: measuring instrument details and bridges, and automatic balancing devices 
+In Orbit: FALSE; 3J528: transmission configuration 
+In Orbit: FALSE; 3B001: table devices or equipment 
+In Orbit: TRUE; 2K102: optical modulation, optical deflection, nonlinear optics, optical demodulation, optical logic devices 
+In Orbit: TRUE; 4C087: medicines containing material from animals or micro-organisms 
+In Orbit: FALSE; 4B021: food preservation (i.e., except freezing, refrigeration, and drying) 
+In Orbit: TRUE; 3K243: non-portable lighting devices or systems thereof 
+In Orbit: FALSE; 3B091: chairs characterized by structure 
+In Orbit: TRUE; 3J552: control of transmission device (gear, wrapping, friction) 
+In Orbit: TRUE; 5F063: dicing 
+In Orbit: TRUE; 3D235: arrangement or mounting of propulsion units for vehicles 
+In Orbit: TRUE; 5K102: optical communication systems 
+In Orbit: FALSE; 3J066: vibration dampers 
+In Orbit: TRUE; 3K014: arrangement of elements, cooling, sealing, or the like of lighting devices 
+In Orbit: FALSE; 2H110: control of exposure in printing and copying 
+In Orbit: TRUE; 5H681: general electrical machinery using piezoelectric effect, electrostriction or magnetostriction 
+In Orbit: FALSE; 3B166: detail structure of washer/dryer 
+In Orbit: TRUE; 2H192: liquid crystal 5-2 (switching element) 
+In Orbit: TRUE; 5F131: container, transfer, fixing, positioning, etc. of wafers, etc. 
+In Orbit: FALSE; 5H550: general control of electric motors with speed feedback 
+In Orbit: FALSE; 5H181: traffic control systems 
+In Orbit: TRUE; 2H068: photoreceptors in electrophotography 
+In Orbit: FALSE; 5J069: bidirectional, combinational, charge, gated amplifier 
+In Orbit: TRUE; 4F201: processing and handling of plastics and other materials for molding in general 
+In Orbit: FALSE; 3F306: cage and drive apparatuses for elevators 
+In Orbit: TRUE; 4F074: manufacture of porous articles, and recovery and treatment of waste products 
+In Orbit: TRUE; 5F052: recrystallization technology 
+In Orbit: TRUE; 5E123: mating device and connection to printed circuit 
+In Orbit: FALSE; 2F073: arrangements for transmission of measured signals 
+In Orbit: FALSE; 4G068: feeding, discharge, calcimining, fusing, and gas-generation devices 
+In Orbit: FALSE; 3D241: related control of drive units, vehicle motion control 
+In Orbit: TRUE; 4G047: inorganic compounds of heavy metals (i) 
+In Orbit: TRUE; 2H200: electrostatic charge, transfer and separation in electrography 
+In Orbit: FALSE; 5K042: general transmission monitoring and testing 
+In Orbit: TRUE; 4F071: manufacture of macromolecular shaped articles 
+In Orbit: FALSE; 4B040: baking, grill, roasting 
+In Orbit: TRUE; 2H191: liquid crystal 4 (combination with optical members) 
+In Orbit: TRUE; 5E034: thermistors and varistors 
+In Orbit: TRUE; 3G091: exhaust gas after treatment 
+In Orbit: FALSE; 5F035: semiconductor or solid-state complete device support 
+In Orbit: FALSE; 5K050: interface circuits in switching equipment 
+In Orbit: FALSE; 3K090: constitution of high-frequency heating 
+In Orbit: TRUE; 5E339: manufacturing of printed circuit boards (1) 
+In Orbit: FALSE; 4D005: coagulation and sedimentation treatment 
+In Orbit: FALSE; 5K072: wireless relay system 
+In Orbit: TRUE; 4F205: moulding by coating moulds; moulding reinforced plastics 
+In Orbit: FALSE; 5J021: variable directional antenna, antenna array 
+In Orbit: TRUE; 5C059: television signal compression and encoding systems 
+In Orbit: FALSE; 5B160: memory system 
+In Orbit: FALSE; 3H057: temperature-responsive valves 
+In Orbit: TRUE; 5G206: push-button switches 
+In Orbit: FALSE; 3L087: electric stoves and ranges 
+In Orbit: TRUE; 2C068: impression-transfer materials and handling thereof 
+In Orbit: TRUE; 5G303: inorganic insulating materials 
+In Orbit: TRUE; 5B068: position input devices 
+In Orbit: FALSE; 4D148: catalytic exhaust gas treatment 
+In Orbit: FALSE; 5H622: permanent magnet field magnetization of synchronous machines 
+In Orbit: TRUE; 5E353: supply and installation of electrical components 
+In Orbit: FALSE; 4C048: epoxy compounds 
+In Orbit: TRUE; 4F050: footwear and its accessory, manufacturing method and apparatuses 
+In Orbit: TRUE; 5H680: ultrasonic motors, piezoelectric motors, electrostatic motors 
+In Orbit: TRUE; 2H225: materials for photolithography 
+In Orbit: TRUE; 5L049: administrative, management and business systems, e-commerce 
+In Orbit: FALSE; 4C031: quinoline compounds 
+In Orbit: TRUE; 5G006: push-button switches 
+In Orbit: TRUE; 2H044: lens barrels 
+In Orbit: TRUE; 2H190: liquid crystal 3-1 (substrate and insulating film) 
+In Orbit: FALSE; 2B101: name of the theme: breeding of livestock animals (1) (housing for livestock and birds) 
+In Orbit: TRUE; 4J038: paints or removers 
+In Orbit: FALSE; 5H501: general control of electric motors 
+In Orbit: FALSE; 5G031: switches with compound operations 
+In Orbit: TRUE; 4D054: electrostatic separation 
+In Orbit: FALSE; 3E013: package specialized in special use 
+In Orbit: FALSE; 3H067: multiple-way valves 
+In Orbit: FALSE; 3B088: passenger equipment 
+In Orbit: TRUE; 4D061: water treatment by electricity or magnetism 
+In Orbit: FALSE; 5D018: obtaining desirable characteristics in audible-bandwidth transducers 
+In Orbit: TRUE; 3H130: structures of non-positive displacement pumps 
+In Orbit: FALSE; 4G073: silicates, zeolites, and molecular sieves 
+In Orbit: FALSE; 2C071: drawing aids and blackboards 
+In Orbit: FALSE; 5D086: record player 
+In Orbit: TRUE; 2F077: transmission and conversion of sensor element output 
+In Orbit: FALSE; 5J092: amplifier 2 
+In Orbit: FALSE; 5D162: stereo system 
+In Orbit: TRUE; 3E141: handling of coins or bills 
+In Orbit: FALSE; 5J090: temperature compensation, supply voltage compensation, distortion compensation, feedback 
+In Orbit: TRUE; 4J039: inks, pencil-leads, or crayons 
+In Orbit: FALSE; 4E089: control of presses 
+In Orbit: TRUE; 5F092: hall/mr elements 
+In Orbit: TRUE; 4L048: woven fabrics 
+In Orbit: TRUE; 5K048: selective caller (for telecontrol and telemetry) 
+In Orbit: TRUE; 4H050: name of the theme: chemical compounds that contain group 5 to 8 elements and manufacture thereof 
+In Orbit: FALSE; 3B104: walking sticks, umbrellas, and fans 
+In Orbit: FALSE; 5K004: ac digital transmission 
+In Orbit: TRUE; 5H115: control of electrically-propelled vehicles 
+In Orbit: TRUE; 4M106: testing or measuring of semiconductors or the like 
+In Orbit: FALSE; 2B064: transplanting machines(5) (seedling-placement units of rice-transplanting machines) 
+In Orbit: FALSE; 5C072: facsimile scanning arrangements 
+In Orbit: TRUE; 4F213: moulding techniques not otherwise provided for, e.g. moulding plastics; combinations of mouldings (no alteration) 
+In Orbit: TRUE; 5E023: multipolar connectors 
+In Orbit: FALSE; 3D033: power-assisted steering 
+In Orbit: TRUE; 5B225: read-only memory 
+In Orbit: FALSE; 5H576: primary frequency control of ac motors 
+In Orbit: FALSE; 2B260: dry formation of fiberboard and the like 
+In Orbit: TRUE; 5F152: recrystallisation techniques 
+In Orbit: FALSE; 5G025: mechanisms for operating contacts 
+In Orbit: TRUE; 5G019: rotary switches and piano key switches 
+In Orbit: TRUE; 5J024: filter/equalizer 
+In Orbit: TRUE; 4D004: processing of solid wastes 
+In Orbit: TRUE; 4J011: polymerisation methods in general 
+In Orbit: FALSE; 4C037: furan compounds 
+In Orbit: FALSE; 5E030: adjustable resistors 
+In Orbit: TRUE; 3E070: large containers 
+In Orbit: FALSE; 5G003: battery charging/discharging circuits 
+In Orbit: FALSE; 5K018: bi-directional digital transmission 
+In Orbit: FALSE; 3H145: control of positive-displacement pumps 
+In Orbit: FALSE; 5J106: transmitter stabilization, synchronization, frequency synthesizer 
+In Orbit: TRUE; 5C033: electron microscopes (3) 
+In Orbit: FALSE; 4D046: multi-step treatment of water and wastewater 
+In Orbit: TRUE; 3C027: nonmetal cutting devices 
+In Orbit: TRUE; 3G301: electrical control of air or fuel supplied to internal-combustion engine 
+In Orbit: FALSE; 5K068: stereo broadcasting system 
+In Orbit: FALSE; 5K127: telephone features 
+In Orbit: FALSE; 3E138: time recorders, drive recorders, access control 
+In Orbit: TRUE; 5C122: studio devices 
+In Orbit: FALSE; 5L096: image analysis 
+In Orbit: TRUE; 5E082: fixed capacitors and capacitor manufacturing machines 
+In Orbit: FALSE; 5J103: station selection circuit, automatic tuning control circuit 
+In Orbit: FALSE; 5D077: indexing, searching, synchronizing, and the amount of synchronization travel of record carriers 
+In Orbit: TRUE; 4J029: polyesters or polycarbonates 
+In Orbit: FALSE; 5C178: compression of band width or redundancy in fax 
+In Orbit: FALSE; 3F004: load-engaging elements for cranes 
+In Orbit: FALSE; 2B027: cultivation receptacles (e.g., pots for planting) 
+In Orbit: TRUE; 4M112: pressure sensors 
+In Orbit: FALSE; 5K022: multiplexed communication method other than time division method 
+In Orbit: TRUE; 4F214: forming of porous articles 
+In Orbit: FALSE; 2F061: length-measuring instruments using mechanical means 
+In Orbit: FALSE; 5J001: pulse circuit 
+In Orbit: FALSE; 3J059: springs 
+In Orbit: TRUE; 4H048: compounds that contain elements from groups i - iii, and synthesis methods thereof 
+In Orbit: FALSE; 5K019: switchboard monitoring and testing 
+In Orbit: TRUE; 5C024: transforming light signals into electric signals 
+In Orbit: TRUE; 2H148: optical filters 
+In Orbit: TRUE; 2F035: measuring volume flow (2); measuring mass flow 
+In Orbit: TRUE; 4H049: compounds that contain elements from groups [1]-[3], and manufacture thereof 
+In Orbit: FALSE; 5K012: proximity electromagnetic field transmission method 
+In Orbit: FALSE; 3D225: vehicle cleaning equipment, wipers, washers 
+In Orbit: TRUE; 3D131: tires in general 
+In Orbit: TRUE; 4C083: cosmetics 
+In Orbit: FALSE; 4F056: treatment and processing of natural fur or leather 
+In Orbit: FALSE; 3B153: ropes or cables 
+In Orbit: FALSE; 3B165: main body structure of washer/dryer 
+In Orbit: FALSE; 5K060: transmitter (device) 
+In Orbit: TRUE; 4J127: macromonomer-based addition polymer 
+In Orbit: TRUE; 5J108: piezoelectric and mechanical oscillators, delay and filter circuits 
+In Orbit: TRUE; 4J128: transition and organic metals composition catalysts for addition polymerization 
+In Orbit: FALSE; 4C086: pharmaceuticals containing other organic and inorganic compounds 
+In Orbit: TRUE; 3K099: holders for apparel and elements relating to apparel 
+In Orbit: TRUE; 4F203: heating, cooling, or curing plastics or the like in general 
+In Orbit: FALSE; 3G092: output control and ontrol of special type engine 
+In Orbit: TRUE; 2E110: finishing walls 
+In Orbit: TRUE; 2H197: exposure and alignment of photoresist sensitive materials 
+In Orbit: FALSE; 5C075: facsimile transmission control 
+In Orbit: TRUE; 5G313: insulated conductors (3) 
+In Orbit: TRUE; 5F141: led elements (other than package) 
+In Orbit: TRUE; 4J036: epoxy resins 
+In Orbit: TRUE; 2H250: optical fiber, optical fiber core wire, optical fiber bundle 
+In Orbit: FALSE; 5K061: receiver circuits in general 
+In Orbit: FALSE; 5D108: acoustics not otherwise classified (e.g., reverberation, karaoke, or the like) 
+In Orbit: TRUE; 5J064: compression, decompression, code conversion and decoder 
+In Orbit: TRUE; 2H196: processing of photosensitive resins and photoresists 
+In Orbit: FALSE; 5K026: centralized control and switching system 
+In Orbit: FALSE; 3D048: braking systems and boosters 
+Found in Search with 4J040 chains of length 4
+--------------------------------------------------------------------------
+In Orbit: FALSE; 2G043: investigating, analyzing materials by fluorescence or luminescence 
+In Orbit: FALSE; 4B169: preservation of fruits and vegetables 
+In Orbit: TRUE; 4D002: treating waste gases 
+In Orbit: TRUE; 4F202: moulds for moulding plastics or the like 
+In Orbit: TRUE; 2D135: hygienic tissue paper 
+In Orbit: TRUE; 5E051: manufacturing of electrical connectors or connection methods for electrical connectors 
+In Orbit: FALSE; 5J098: circuit network with active elements 
+In Orbit: FALSE; 2E239: special wing 
+In Orbit: TRUE; 4J031: other resins obtained by reactions not involving carbon-to-carbon unsaturated bonds 
+In Orbit: FALSE; 2E001: building environments 
+In Orbit: FALSE; 5H601: iron core of rotating electrical machine 
+In Orbit: FALSE; 5B146: ｃａｄ 
+In Orbit: TRUE; 4F209: shaping by bending or straightening; shaping of tube ends; surface shaping 
+In Orbit: TRUE; 5C227: cold cathode and its manufacture 
+In Orbit: TRUE; 5K067: mws 
+In Orbit: TRUE; 2C005: credit cards or the like 
+In Orbit: TRUE; 2H195: manuscript preparation and masking in photoengraving 
+In Orbit: FALSE; 4G073: silicates, zeolites, and molecular sieves 
+In Orbit: TRUE; 4G169: catalysts 
+In Orbit: FALSE; 5B109: document processing apparatus 
+In Orbit: FALSE; 5D162: stereo system 
+In Orbit: TRUE; 2C065: thermal printer structures 
+In Orbit: FALSE; 5J090: temperature compensation, supply voltage compensation, distortion compensation, feedback 
+In Orbit: TRUE; 5C035: details common to electron tubes or discharge lamps 
+In Orbit: TRUE; 4J039: inks, pencil-leads, or crayons 
+In Orbit: FALSE; 2D118: revetment 
+In Orbit: FALSE; 4C077: external artificial organs 
+In Orbit: FALSE; 2D061: sink and installation for waste water 
+In Orbit: TRUE; 5J083: measurement of position, velocity, etc. using sound waves and ultrasonic waves 
+In Orbit: FALSE; 5J066: differential amplifier 
+In Orbit: FALSE; 2B084: harvester elements 4 (grain straw conveying) 
+In Orbit: TRUE; 5J006: waveguide-type frequency selector and resonator 
+In Orbit: TRUE; 4F208: blow-moulding or thermoforming of plastics or the like 
+In Orbit: TRUE; 4D006: separation using semi-permeable membranes 
+In Orbit: FALSE; 4L045: spinning methods and devices for manufacturing artificial fibers 
+In Orbit: FALSE; 4H057: dyeing 
+In Orbit: TRUE; 5J070: radar system and its details 
+In Orbit: FALSE; 5K046: wired transmission system and radio equalization, echo reduction 
+In Orbit: TRUE; 5E316: manufacture of multilayer printed wiring boards 
+In Orbit: FALSE; 5K036: sending and display of telephone numbers 
+In Orbit: FALSE; 5J039: pulse operation 
+In Orbit: FALSE; 4C018: 1,3-diazole compounds 
+In Orbit: FALSE; 4E093: molds, cores, and manufacturing methods thereof 
+In Orbit: FALSE; 5H316: fluid pressure control 
+In Orbit: TRUE; 3D203: body structure for vehicles 
+In Orbit: FALSE; 3J528: transmission configuration 
+In Orbit: FALSE; 5J023: filter with delay elements 
+In Orbit: TRUE; 2K102: optical modulation, optical deflection, nonlinear optics, optical demodulation, optical logic devices 
+In Orbit: TRUE; 4K018: powder metallurgy 
+In Orbit: FALSE; 3G313: lubrication of internal combustion engines 
+In Orbit: TRUE; 2G060: investigating or analyzing materials by the use of electric means 
+In Orbit: TRUE; 5E070: coils or transformers for communication 
+In Orbit: TRUE; 5J500: amplifiers in general 
+In Orbit: TRUE; 5F063: dicing 
+In Orbit: TRUE; 4J034: polyurethanes or polyureas 
+In Orbit: TRUE; 4F213: moulding techniques not otherwise provided for, e.g. moulding plastics; combinations of mouldings (no alteration) 
+In Orbit: TRUE; 4L055: paper (4) 
+In Orbit: TRUE; 5B225: read-only memory 
+In Orbit: TRUE; 5K102: optical communication systems 
+In Orbit: FALSE; 2D147: protection, testing and repair of underground structures and foundations 
+In Orbit: TRUE; 3F058: storage of web-like or filamentary materials 
+In Orbit: TRUE; 5G325: processes specially adapted for manufacturing cables 
+In Orbit: TRUE; 3L260: air conditioning control equipment 
+In Orbit: FALSE; 4K070: carbon steel or casting steel manufacturing 
+In Orbit: FALSE; 3C158: finishing grinding, blade grinding, grinding by specific grinding mechanism 
+In Orbit: FALSE; 5K047: synchronization in digital transmission systems 
+In Orbit: FALSE; 3B150: sewing machines and sewing 
+In Orbit: FALSE; 5G219: rotary, piano, lever switch 
+In Orbit: TRUE; 2G046: investigating or analyzing materials by the use of fluid adsorption or reactions 
+In Orbit: FALSE; 4D059: treatment of sludge 
+In Orbit: FALSE; 5H505: control of ac motors in general 
+In Orbit: FALSE; 5H730: dc-dc converter 
+In Orbit: TRUE; 4J011: polymerisation methods in general 
+In Orbit: FALSE; 4C096: magnetic resonance imaging apparatus 
+In Orbit: FALSE; 4C037: furan compounds 
+In Orbit: FALSE; 3K056: nozzles for spraying of liquid fuel 
+In Orbit: TRUE; 3E070: large containers 
+In Orbit: TRUE; 5H681: general electrical machinery using piezoelectric effect, electrostriction or magnetostriction 
+In Orbit: FALSE; 3B166: detail structure of washer/dryer 
+In Orbit: FALSE; 5J055: electronic switch 1 
+In Orbit: TRUE; 5F044: wire bonding 
+In Orbit: TRUE; 2H192: liquid crystal 5-2 (switching element) 
+In Orbit: FALSE; 5J106: transmitter stabilization, synchronization, frequency synthesizer 
+In Orbit: TRUE; 4F073: treatments of macromolecular shaped articles 
+In Orbit: TRUE; 5F131: container, transfer, fixing, positioning, etc. of wafers, etc. 
+In Orbit: FALSE; 5E555: digital computer user interface 
+In Orbit: TRUE; 5C033: electron microscopes (3) 
+In Orbit: TRUE; 2H113: printing methods 
+In Orbit: FALSE; 3B155: laundering in general 
+In Orbit: FALSE; 5J069: bidirectional, combinational, charge, gated amplifier 
+In Orbit: FALSE; 2G075: monitoring and testing of nuclear reactors 
+In Orbit: TRUE; 4F201: processing and handling of plastics and other materials for molding in general 
+In Orbit: TRUE; 4G146: carbon and carbon compounds 
+In Orbit: TRUE; 4J001: polyamides 
+In Orbit: TRUE; 4F100: laminated bodies (2) 
+In Orbit: TRUE; 4F207: extrusion moulding of plastics or the like 
+In Orbit: FALSE; 3B167: washer and dryer control 
+In Orbit: TRUE; 5E123: mating device and connection to printed circuit 
+In Orbit: TRUE; 4G072: silicon; compounds thereof 
+In Orbit: FALSE; 2E162: panels for use in building construction 
+In Orbit: FALSE; 5K068: stereo broadcasting system 
+In Orbit: FALSE; 5K127: telephone features 
+In Orbit: FALSE; 3F048: controlling sheets or webs 
+In Orbit: FALSE; 3D241: related control of drive units, vehicle motion control 
+In Orbit: FALSE; 5D478: electrical instrument 
+In Orbit: TRUE; 5E021: details of connecting devices for male and female coupling 
+In Orbit: FALSE; 2B029: greenhouses 
+In Orbit: FALSE; 5E081: transformers for measuring instruments 
+In Orbit: FALSE; 5M024: ｄｒａｍ 
+In Orbit: TRUE; 5H680: ultrasonic motors, piezoelectric motors, electrostatic motors 
+In Orbit: FALSE; 5K030: wide area data exchange 
+In Orbit: FALSE; 5J103: station selection circuit, automatic tuning control circuit 
+In Orbit: TRUE; 2H085: color printing 
+In Orbit: FALSE; 3K023: air supply 
+In Orbit: TRUE; 4J029: polyesters or polycarbonates 
+In Orbit: TRUE; 3L045: devices that are associated with refrigeration equipment 
+In Orbit: FALSE; 5K022: multiplexed communication method other than time division method 
+In Orbit: TRUE; 4F214: forming of porous articles 
+In Orbit: FALSE; 3C047: grinding-machine dressing and accessory apparatuses 
+In Orbit: FALSE; 5K019: switchboard monitoring and testing 
+In Orbit: TRUE; 3C060: perforating, stamping-out or severing by means other than cutting 
+In Orbit: TRUE; 4J100: addition polymer or copolymer, post-treatments, or chemical modifications 
+In Orbit: FALSE; 4K015: blast furnaces 
+In Orbit: TRUE; 2C017: sheet holders 
+In Orbit: TRUE; 2H148: optical filters 
+In Orbit: TRUE; 5E223: mating device and connection to printed circuit 
+In Orbit: TRUE; 4F210: shaping by stretching and by release of stress in plastics and the like 
+In Orbit: TRUE; 3J030: gears, cams 
+In Orbit: FALSE; 5H323: temperature control 
+In Orbit: TRUE; 3E170: large containers 
+In Orbit: TRUE; 4D116: liquid filtration 
+In Orbit: FALSE; 5K072: wireless relay system 
+In Orbit: FALSE; 3B115: table equipment 
+In Orbit: FALSE; 4D048: exhaust gas treatment by means of catalyst 
+In Orbit: TRUE; 2F101: electromechanical clocks 
+In Orbit: TRUE; 5E028: details of resistors 
+In Orbit: FALSE; 3J216: bearing sealing 
+In Orbit: TRUE; 5F241: led elements (other than package) 
+In Orbit: FALSE; 5H655: superconducting generators, electric motors 
+In Orbit: TRUE; 4F205: moulding by coating moulds; moulding reinforced plastics 
+In Orbit: FALSE; 4K037: heat treatment of sheet steel 
+In Orbit: TRUE; 4G062: glass compositions (third edition) 
+In Orbit: TRUE; 2H290: liquid crystal 3-2 (mating part material) 
+In Orbit: FALSE; 3F522: inventory management, logistics systems not elsewhere classified 
+In Orbit: FALSE; 3J046: pressure vessels and lids thereof 
+In Orbit: FALSE; 5K034: communication control 
+In Orbit: FALSE; 4F056: treatment and processing of natural fur or leather 
+In Orbit: FALSE; 2B094: threshing machine elements 2 (threshing or return of unthreshed grain) 
+In Orbit: FALSE; 2B150: fodder in general 
+In Orbit: TRUE; 4J002: compositions of macromolecular compounds 
+In Orbit: FALSE; 5H609: cooling of electric motors and generators 
+In Orbit: FALSE; 3B165: main body structure of washer/dryer 
+In Orbit: TRUE; 2H025: photoresist materials 
+In Orbit: FALSE; 5K060: transmitter (device) 
+In Orbit: FALSE; 2H087: lenses 
+In Orbit: FALSE; 5C054: closed-circuit television systems 
+In Orbit: FALSE; 3B045: purses, travelling bags, baskets, or suitcases 
+In Orbit: FALSE; 5K058: continuous tuning 
+In Orbit: TRUE; 5F173: semiconductor lasers 
+In Orbit: TRUE; 5G305: organic insulating materials 
+In Orbit: FALSE; 3B084: chair legs, seat parts, and backrests 
+In Orbit: FALSE; 5J043: pulse generator 
+In Orbit: TRUE; 4E168: laser processing 
+In Orbit: FALSE; 5F082: bipolar integrated circuits 
+In Orbit: FALSE; 4C086: pharmaceuticals containing other organic and inorganic compounds 
+In Orbit: FALSE; 2D132: tubs and showers and their accessories 
+In Orbit: FALSE; 5K016: receiver structure 
+In Orbit: FALSE; 2G052: sampling and sample adjustment 
+In Orbit: FALSE; 3K100: supports or holders for household use 
+In Orbit: TRUE; 4F050: footwear and its accessory, manufacturing method and apparatuses 
+In Orbit: TRUE; 3K099: holders for apparel and elements relating to apparel 
+In Orbit: FALSE; 5J050: electronic switch ii 
+In Orbit: TRUE; 4F203: heating, cooling, or curing plastics or the like in general 
+In Orbit: TRUE; 5F110: thin film transistor 
+In Orbit: TRUE; 4F212: special foam moulding of plastics or the like; tyre moulding 
+In Orbit: TRUE; 2H197: exposure and alignment of photoresist sensitive materials 
+In Orbit: TRUE; 2H225: materials for photolithography 
+In Orbit: TRUE; 2F056: measuring temperature or quantity of heat 
+In Orbit: TRUE; 2E110: finishing walls 
+In Orbit: TRUE; 4C081: materials for medical uses 
+In Orbit: FALSE; 2D155: tunnel lining and support 
+In Orbit: TRUE; 2G188: radiation measurements 
+In Orbit: TRUE; 2H300: color electrophotography 
+In Orbit: TRUE; 5G313: insulated conductors (3) 
+In Orbit: TRUE; 2D035: body dryer 
+In Orbit: TRUE; 4H006: organic low-molecular-weight compounds and preparation thereof 
+In Orbit: TRUE; 2E002: load-bearing and curtain walls 
+In Orbit: FALSE; 3E065: tubes 
+In Orbit: FALSE; 4E088: presses and accessory devices thereof 
+In Orbit: TRUE; 2H250: optical fiber, optical fiber core wire, optical fiber bundle 
+In Orbit: TRUE; 3C007: manipulators/robots 
+In Orbit: TRUE; 4J038: paints or removers 
+In Orbit: TRUE; 4F215: tire molding 
+In Orbit: FALSE; 5K061: receiver circuits in general 
+In Orbit: FALSE; 2B200: veneer processing and manufacture of plywood 
+In Orbit: FALSE; 2B081: outside dividers and delivering mechanisms for harvesters 
+In Orbit: FALSE; 4D077: emulsifying, dispersing, foam-producing or wetting agents 
+In Orbit: TRUE; 2H196: processing of photosensitive resins and photoresists 
+In Orbit: TRUE; 4F211: lining or joining of plastics or the like 
+In Orbit: TRUE; 3K065: combustion not otherwise provided for 
+In Orbit: FALSE; 4B128: processing of alcoholic beverages, vinegar and beer, extraction of fermentation by-products, preparation of denatured alcohol 
+In Orbit: TRUE; 5H127: fuel cell (system) 
+In Orbit: TRUE; 4E004: continuous casting 
+In Orbit: FALSE; 3L122: heat pump and storage water heaters 
+In Orbit: TRUE; 2G047: investigating or analyzing materials by the use of ultrasonic waves 
